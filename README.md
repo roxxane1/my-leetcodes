@@ -1,2 +1,2 @@
 # my-leetcodes
-my daily leetcodes
+my daily leetcodes.
